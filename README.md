@@ -34,7 +34,7 @@
   
   ###
   
-  <h2 align="left">👩‍💻  About Me</h2>
+  <h2 align="left">👩‍💻  About Me :</h2>
   
   ###
   
@@ -43,7 +43,7 @@
   ###
   <br>
   
-  <h2 align="left">🛠 Language and Tools:</h2>
+  <h2 align="left">🛠 Language and Tools :</h2>
   
   ###
   
